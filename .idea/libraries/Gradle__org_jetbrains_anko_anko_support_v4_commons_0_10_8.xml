@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.anko:anko-support-v4-commons-0.10.8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../maven/caches/transforms-1/files-1.1/anko-support-v4-commons-0.10.8.aar/28e7a0f0b241949aaafec2d307805a1a/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../maven/caches/transforms-1/files-1.1/anko-support-v4-commons-0.10.8.aar/28e7a0f0b241949aaafec2d307805a1a/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../maven/caches/modules-2/files-2.1/org.jetbrains.anko/anko-support-v4-commons/0.10.8/b358dbc75b511cbc20aa7ca162d8ed20295a7d8e/anko-support-v4-commons-0.10.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

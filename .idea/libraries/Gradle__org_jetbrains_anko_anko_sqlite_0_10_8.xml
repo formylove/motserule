@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.anko:anko-sqlite-0.10.8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../maven/caches/transforms-1/files-1.1/anko-sqlite-0.10.8.aar/cdaf92883d3020b77561e09fb32781a2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../maven/caches/transforms-1/files-1.1/anko-sqlite-0.10.8.aar/cdaf92883d3020b77561e09fb32781a2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../maven/caches/modules-2/files-2.1/org.jetbrains.anko/anko-sqlite/0.10.8/5bf3f4c2bc1e657e1e607566be8d9706807b248e/anko-sqlite-0.10.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

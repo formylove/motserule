@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.anko:platform-base-0.10.8">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../maven/caches/transforms-1/files-1.1/platform-base-0.10.8.aar/2f328abe3240db294a867343fe93609b/res" />
+      <root url="jar://$PROJECT_DIR$/../../../maven/caches/transforms-1/files-1.1/platform-base-0.10.8.aar/2f328abe3240db294a867343fe93609b/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../maven/caches/modules-2/files-2.1/org.jetbrains.anko/platform-base/0.10.8/841013cadd306eaf8e9e926bbcca7d0e20065f57/platform-base-0.10.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

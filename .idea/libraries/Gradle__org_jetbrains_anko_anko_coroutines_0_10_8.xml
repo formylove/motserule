@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.anko:anko-coroutines-0.10.8">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../maven/caches/transforms-1/files-1.1/anko-coroutines-0.10.8.aar/b783abdfde57b24df62e7713ba104ce8/res" />
+      <root url="jar://$PROJECT_DIR$/../../../maven/caches/transforms-1/files-1.1/anko-coroutines-0.10.8.aar/b783abdfde57b24df62e7713ba104ce8/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../maven/caches/modules-2/files-2.1/org.jetbrains.anko/anko-coroutines/0.10.8/91cfd6a36cd717882e498db2f777328de12a0dbe/anko-coroutines-0.10.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
