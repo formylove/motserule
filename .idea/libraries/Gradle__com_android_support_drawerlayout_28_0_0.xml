@@ -1,11 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: com.android.support:drawerlayout-28.0.0">
     <ANNOTATIONS>
-      <root url="jar://$PROJECT_DIR$/../../../maven/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/d921b83ea4e9c2184e1d3dc66872f2a2/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../../maven/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/26c36fd9e2e7f240e90295d95268a613/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../../../maven/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/d921b83ea4e9c2184e1d3dc66872f2a2/res" />
-      <root url="jar://$PROJECT_DIR$/../../../maven/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/d921b83ea4e9c2184e1d3dc66872f2a2/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../maven/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/26c36fd9e2e7f240e90295d95268a613/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../maven/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/26c36fd9e2e7f240e90295d95268a613/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

@@ -1,0 +1,1 @@
+package ink.moshuier.motse.rule.utils
