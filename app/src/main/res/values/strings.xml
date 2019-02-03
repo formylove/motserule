@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">MotseRule</string>
+    <string name="app_name">墨守</string>
+    <string name="title_activity_add">AddActivity</string>
+    <string name="title_activity_balance">BalanceActivity</string>
 </resources>
