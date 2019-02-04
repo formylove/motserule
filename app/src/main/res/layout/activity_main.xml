@@ -9,6 +9,7 @@
 
 
     <android.support.v7.widget.RecyclerView
+            android:id="@+id/taskRecycler"
             android:layout_width="368dp"
             android:layout_height="495dp"
             app:layout_constraintEnd_toEndOf="parent"
