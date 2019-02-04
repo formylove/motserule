@@ -23,7 +23,7 @@ class RecyclerViewAdapter(val tasks:List<Task>, val context: Context):RecyclerVi
     override fun onBindViewHolder(holder: ItemHolder, position: Int) {
         holder?.taskTitle?.text = tasks.get(position).title
         holder?.parentLayout?.onClick {
-            Toast.makeText(context,"权重: "+tasks.get(position).weight,Toast.LENGTH_LONG)
+            Toast.makeText(context,"权重: "+tasks.get(position).weight,Toast.LENGTH_LONG).show()
         }
     }
 

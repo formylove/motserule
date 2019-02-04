@@ -17,7 +17,8 @@ class MainActivity : AppCompatActivity(),AnkoLogger {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         taskRecycler.layoutManager = LinearLayoutManager(this)
-        taskRecycler.adapter = RecyclerViewAdapter(listOf(Task("plank",3),Task("reading",11)),this)
+        val taskList = listOf(Task("plank",3),Task("reading",11),Task("noting",11),Task("noting",11),Task("noting",11),Task("noting",11),Task("noting",11),Task("noting",11),Task("noting",11),Task("noting",11),Task("noting",11),Task("noting",11))
+        taskRecycler.adapter = RecyclerViewAdapter(taskList,this)
 
     }
 }
